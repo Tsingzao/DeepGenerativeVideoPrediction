@@ -8,3 +8,4 @@ Tensorflow >= 0.11.0
 
 # Results
 ![Alt text](https://github.com/Tsingzao/DeepGenerativeVideoPrediction/blob/master/Results/loss.jpg)
+![Alt text](https://github.com/Tsingzao/DeepGenerativeVideoPrediction/blob/master/Results/mnist.jpg)
